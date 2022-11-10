@@ -29,10 +29,12 @@ export const sortGamesByScoreAndDate = ( completedMatches ) => {
     if (+a["home_team"].goals + +a["away_team"].goals > +b["home_team"].goals + +b["away_team"].goals) {
       return -1;
     }
+    return 0
   }).sort(( a, b ) => {
     if (+a["home_team"].goals + +a["away_team"].goals === +b["home_team"].goals + +b["away_team"].goals && a.match_id > b.match_id) {
       return -1;
     }
+    return 0
   });
 }
 
