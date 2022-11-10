@@ -1,0 +1,31 @@
+@import url("../../styles/variables");
+
+.CurrentMatch {
+  .widthHeight(60%, 100%);
+  .flexDirectionAlignItemsJustifyCont(row, center, center);
+
+  > button {
+    border-radius: 10px;
+    width: 40%;
+    padding: 15px;
+    height: max-content;
+    border: none;
+    cursor: pointer;
+    background-color: @light-green;
+    transition: .2ms ease;
+    .textFamilySizeColor(@f-bsr, 2rem, @white);
+
+    &:active {
+      position: relative;
+      top: 2px;
+    }
+  }
+
+  &.in_progress {
+    .flexDirectionAlignItemsJustifyCont(column, center, center);
+
+    > button {
+      background-color: @red;
+    }
+  }
+}

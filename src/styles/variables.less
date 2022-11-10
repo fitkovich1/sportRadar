@@ -1,0 +1,33 @@
+/* fonts */
+@f-tcmi: 'TourneyCondensedMediumItalic';
+@f-bsr: 'BigShouldersRegular';
+
+/*colors*/
+@white: #fff;
+@grey: #f1efef;
+@red: #5C0632;
+@black: #000;
+@light-green: #409B00FF;
+
+/*VARS*/
+@ease: 0.2s ease-out;
+@brd_blk: 1px solid @black;
+
+.widthHeight(@width, @height) {
+  width: @width;
+  height: @height;
+}
+
+.textFamilySizeColor(@family, @size, @color) {
+  font-family: @family;
+  font-size: @size;
+  color: @color;
+}
+
+.flexDirectionAlignItemsJustifyCont(@direction, @alignItems, @justifyContent) {
+  display: flex;
+  flex-direction: @direction;
+  align-items: @alignItems;
+  justify-content: @justifyContent;
+}
+

@@ -1,0 +1,37 @@
+/* fonts */
+/*colors*/
+/*VARS*/
+.CurrentMatch {
+  width: 60%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.CurrentMatch > button {
+  border-radius: 10px;
+  width: 40%;
+  padding: 15px;
+  height: max-content;
+  border: none;
+  cursor: pointer;
+  background-color: #409B00FF;
+  transition: 0.2ms ease;
+  font-family: 'BigShouldersRegular';
+  font-size: 2rem;
+  color: #fff;
+}
+.CurrentMatch > button:active {
+  position: relative;
+  top: 2px;
+}
+.CurrentMatch.in_progress {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.CurrentMatch.in_progress > button {
+  background-color: #5C0632;
+}

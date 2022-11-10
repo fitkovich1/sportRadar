@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "BigShouldersRegular";
+    src: url(big_shoulders/BigShouldersRegular.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "BigShouldersMedium";
+    src: url(big_shoulders/BigShouldersMedium.ttf) format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "TourneyCondensedMediumItalic";
+    src: url(tourney/TourneyCondensedMediumItalic.ttf) format("truetype");
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "BigShouldersSemiBold";
+    src: url(big_shoulders/BigShouldersSemiBold.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "TourneyCondensedSemiBoldItalic";
+    src: url(tourney/TourneyCondensedSemiBoldItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}

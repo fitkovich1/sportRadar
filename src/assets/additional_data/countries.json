@@ -1,0 +1,404 @@
+[
+  {
+    "country_id": 0,
+    "goals": 0,
+    "country": "Australia",
+    "flag": "flag_of_Australia.png"
+  },
+  {
+    "country_id": 1,
+    "goals": 0,
+    "country": "Austria",
+    "flag": "flag_of_Austria.webp"
+  },
+  {
+    "country_id": 2,
+    "goals": 0,
+    "country": "Azerbaijan",
+    "flag": "flag_of_Azerbaijan.webp"
+  },
+  {
+    "country_id": 3,
+    "goals": 0,
+    "country": "Albania",
+    "flag": "flag_of_Albania.webp"
+  },
+  {
+    "country_id": 4,
+    "goals": 0,
+    "country": "Argentina",
+    "flag": "flag_of_Argentina.webp"
+  },
+  {
+    "country_id": 5,
+    "goals": 0,
+    "country": "Armenia",
+    "flag": "flag_of_Armenia.webp"
+  },
+  {
+    "country_id": 6,
+    "goals": 0,
+    "country": "Belarus",
+    "flag": "flag_of_Belarus.webp"
+  },
+  {
+    "country_id": 7,
+    "goals": 0,
+    "country": "Belgium",
+    "flag": "flag_of_Belgium.webp"
+  },
+  {
+    "country_id": 8,
+    "goals": 0,
+    "country": "Bulgaria",
+    "flag": "flag_of_Bulgaria.webp"
+  },
+  {
+    "country_id": 9,
+    "goals": 0,
+    "country": "Bosnia and Herzegovina",
+    "flag": "flag_of_Bosnia_and_Herzegovina.webp"
+  },
+  {
+    "country_id": 10,
+    "goals": 0,
+    "country": "Brazil",
+    "flag": "flag_of_Brazil.png"
+  },
+  {
+    "country_id": 11,
+    "goals": 0,
+    "country": "Great Britain",
+    "flag": "flag_of_the_United_Kingdom.webp"
+  },
+  {
+    "country_id": 12,
+    "goals": 0,
+    "country": "Hungary",
+    "flag": "flag_of_Hungary.webp"
+  },
+  {
+    "country_id": 13,
+    "goals": 0,
+    "country": "Vietnam",
+    "flag": "flag_of_Vietnam.webp"
+  },
+  {
+    "country_id": 14,
+    "goals": 0,
+    "country": "Germany",
+    "flag": "flag_of_Germany.webp"
+  },
+  {
+    "country_id": 15,
+    "goals": 0,
+    "country": "Greece",
+    "flag": "flag_of_Greece.webp"
+  },
+  {
+    "country_id": 16,
+    "goals": 0,
+    "country": "Georgia",
+    "flag": "flag_of_Georgia.webp"
+  },
+  {
+    "country_id": 17,
+    "goals": 0,
+    "country": "Denmark",
+    "flag": "flag_of_Denmark.webp"
+  },
+  {
+    "country_id": 18,
+    "goals": 0,
+    "country": "Israel",
+    "flag": "flag_of_Israel.webp"
+  },
+  {
+    "country_id": 19,
+    "goals": 0,
+    "country": "India",
+    "flag": "flag_of_India.webp"
+  },
+  {
+    "country_id": 20,
+    "goals": 0,
+    "country": "Indonesia",
+    "flag": "flag_of_Indonesia.webp"
+  },
+  {
+    "country_id": 21,
+    "goals": 0,
+    "country": "Ireland",
+    "flag": "flag_of_Ireland.webp"
+  },
+  {
+    "country_id": 22,
+    "goals": 0,
+    "country": "Iceland",
+    "flag": "flag_of_Iceland.png"
+  },
+  {
+    "country_id": 23,
+    "goals": 0,
+    "country": "Spain",
+    "flag": "flag_of_Bandera_de_Espania.webp"
+  },
+  {
+    "country_id": 24,
+    "goals": 0,
+    "country": "Italy",
+    "flag": "flag_of_Italy.webp"
+  },
+  {
+    "country_id": 25,
+    "goals": 0,
+    "country": "Canada",
+    "flag": "flag_of_Canada.webp"
+  },
+  {
+    "country_id": 26,
+    "goals": 0,
+    "country": "Cyprus",
+    "flag": "flag_of_Cyprus.webp"
+  },
+  {
+    "country_id": 27,
+    "goals": 0,
+    "country": "China",
+    "flag": "flag_of_the_Peoples_Republic_of_China.webp"
+  },
+  {
+    "country_id": 28,
+    "goals": 0,
+    "country": "Republic of China",
+    "flag": "flag_of_the_Republic_of_China.webp"
+  },
+  {
+    "country_id": 29,
+    "goals": 0,
+    "country": "Latvia",
+    "flag": "flag_of_Latvia.webp"
+  },
+  {
+    "country_id": 30,
+    "goals": 0,
+    "country": "Lithuania",
+    "flag": "flag_of_Lithuania.webp"
+  },
+  {
+    "country_id": 31,
+    "goals": 0,
+    "country": "North Macedonia",
+    "flag": "flag_of_North_Macedonia.webp"
+  },
+  {
+    "country_id": 32,
+    "goals": 0,
+    "country": "Malaysia",
+    "flag": "flag_of_Malaysia.webp"
+  },
+  {
+    "country_id": 33,
+    "goals": 0,
+    "country": "Malta",
+    "flag": "flag_of_Malta.webp"
+  },
+  {
+    "country_id": 34,
+    "goals": 0,
+    "country": "Mexico",
+    "flag": "flag_of_Mexico.webp"
+  },
+  {
+    "country_id": 35,
+    "goals": 0,
+    "country": "Moldova",
+    "flag": "flag_of_Moldova.webp"
+  },
+  {
+    "country_id": 36,
+    "goals": 0,
+    "country": "Mongolia",
+    "flag": "flag_of_Mongolia.png"
+  },
+  {
+    "country_id": 37,
+    "goals": 0,
+    "country": "Nepal",
+    "flag": "flag_of_Nepal.png"
+  },
+  {
+    "country_id": 38,
+    "goals": 0,
+    "country": "Netherlands",
+    "flag": "flag_of_the_Netherlands.webp"
+  },
+  {
+    "country_id": 39,
+    "goals": 0,
+    "country": "New Zealand",
+    "flag": "flag_of_New_Zealand.webp"
+  },
+  {
+    "country_id": 40,
+    "goals": 0,
+    "country": "Norway",
+    "flag": "flag_of_Norway.png"
+  },
+  {
+    "country_id": 41,
+    "goals": 0,
+    "country": "Poland",
+    "flag": "flag_of_Poland.webp"
+  },
+  {
+    "country_id": 42,
+    "goals": 0,
+    "country": "Portugal",
+    "flag": "flag_of_Portugal.webp"
+  },
+  {
+    "country_id": 43,
+    "goals": 0,
+    "country": "The Republic of Korea",
+    "flag": "flag_of_South_Korea.webp"
+  },
+  {
+    "country_id": 44,
+    "goals": 0,
+    "country": "Kazakhstan",
+    "flag": "flag_of_Kazakhstan.webp"
+  },
+  {
+    "country_id": 45,
+    "goals": 0,
+    "country": "Kyrgyzstan",
+    "flag": "flag_of_Kyrgyzstan.png"
+  },
+  {
+    "country_id": 46,
+    "goals": 0,
+    "country": "Russia",
+    "flag": "flag_of_Russia.webp"
+  },
+  {
+    "country_id": 47,
+    "goals": 0,
+    "country": "Romania",
+    "flag": "flag_of_Romania.webp"
+  },
+  {
+    "country_id": 48,
+    "goals": 0,
+    "country": "Serbia",
+    "flag": "flag_of_Serbia.webp"
+  },
+  {
+    "country_id": 49,
+    "goals": 0,
+    "country": "Slovakia",
+    "flag": "flag_of_Slovakia.png"
+  },
+  {
+    "country_id": 50,
+    "goals": 0,
+    "country": "USA",
+    "flag": "flag_of_the_United_States.webp"
+  },
+  {
+    "country_id": 51,
+    "goals": 0,
+    "country": "Tajikistan",
+    "flag": "flag_of_Tajikistan.png"
+  },
+  {
+    "country_id": 52,
+    "goals": 0,
+    "country": "Thailand",
+    "flag": "flag_of_Thailand.webp"
+  },
+  {
+    "country_id": 53,
+    "goals": 0,
+    "country": "Turkey",
+    "flag": "flag_of_Turkey.webp"
+  },
+  {
+    "country_id": 54,
+    "goals": 0,
+    "country": "Uzbekistan",
+    "flag": "flag_of_Uzbekistan.webp"
+  },
+  {
+    "country_id": 55,
+    "goals": 0,
+    "country": "Ukraine",
+    "flag": "flag_of_Ukraine.webp"
+  },
+  {
+    "country_id": 56,
+    "goals": 0,
+    "country": "France",
+    "flag": "flag_of_France.webp"
+  },
+  {
+    "country_id": 57,
+    "goals": 0,
+    "country": "Finland",
+    "flag": "flag_of_Finland.webp"
+  },
+  {
+    "country_id": 58,
+    "goals": 0,
+    "country": "Croatia",
+    "flag": "flag_of_Croatia.webp"
+  },
+  {
+    "country_id": 59,
+    "goals": 0,
+    "country": "Montenegro",
+    "flag": "flag_of_Montenegro.webp"
+  },
+  {
+    "country_id": 60,
+    "goals": 0,
+    "country": "Czech",
+    "flag": "flag_of_the_Czech_Republic.webp"
+  },
+  {
+    "country_id": 61,
+    "goals": 0,
+    "country": "Chile",
+    "flag": "flag_of_Chile.webp"
+  },
+  {
+    "country_id": 62,
+    "goals": 0,
+    "country": "Switzerland",
+    "flag": "flag_of_Switzerland.webp"
+  },
+  {
+    "country_id": 63,
+    "goals": 0,
+    "country": "Sweden",
+    "flag": "flag_of_Sweden.webp"
+  },
+  {
+    "country_id": 64,
+    "goals": 0,
+    "country": "Estonia",
+    "flag": "flag_of_Estonia.webp"
+  },
+  {
+    "country_id": 65,
+    "goals": 0,
+    "country": "South Africa",
+    "flag": "flag_of_South_Africa.webp"
+  },
+  {
+    "country_id": 66,
+    "goals": 0,
+    "country": "Japan",
+    "flag": "flag_of_Japan.webp"
+  }
+]
